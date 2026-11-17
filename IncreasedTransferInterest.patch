@@ -1,0 +1,13 @@
+# CM01/02 increased transfer interest v0.1 beta; compatible expanded 3.9.68 only.
+# Run the included compatibility checker before applying this patch.
+004411C3: B8 00
+004411C4: 89 62
+004411C5: 96 FE
+008DB200: 00 9A
+008DB201: 00 99
+008DB202: 00 99
+008DB203: 00 99
+008DB204: 00 99
+008DB205: 00 99
+008DB206: 00 F5
+008DB207: 00 3F
