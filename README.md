@@ -4,7 +4,9 @@
 
 Makes transfer-listed players more attractive to buying clubs by increasing the game's existing recruitment-rating bonus from **5% to 35%** (multiplier **1.05 to 1.35**).
 
-**[Download v0.1-beta](https://github.com/jasperkoningnl/cm0102-increased-interest/releases/tag/v0.1-beta)**
+**[Download patch package (.zip)](https://github.com/jasperkoningnl/cm0102-increased-interest/archive/refs/heads/main.zip)**
+
+This is GitHub's repository ZIP. Extract it and open the `cm0102-increased-interest-main` folder to find the patch and checker together.
 
 ## What changes
 
@@ -24,7 +26,7 @@ That is one player's experience, not a controlled league-wide or long-term balan
 
 ## Install with Nick's Patcher
 
-1. Download the ZIP under **Assets** on the release page and extract it.
+1. Download the patch package using the link above (or **Code > Download ZIP**) and extract it.
 2. Close CM01/02. Make a backup of the **executable you actually launch**, such as `cm0102.exe`.
 3. Drag that executable onto **CheckCompatibility.cmd**. Continue only if it says **PASS INSTALL**. The checker only reads files. **ALREADY INSTALLED** means no installation is needed. If it says **NOT SUPPORTED**, do not install this beta.
 4. Open [Nick's CM0102Patcher](https://github.com/nckstwrt/CM0102Patcher/releases), select the same executable, then use **Tools > Apply Patchfile** and choose **IncreasedTransferInterest.patch**.
